@@ -38,14 +38,15 @@
        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
    </a> <Br />
 
-   <a href="https://www.instagram.com/patricksom_/" target="_blank">
+   <a href="https://www.instagram.com/patrick.dev_/" target="_blank">
        <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
    </a> <Br />
 
    <a href = "mailto:marcospatrick039474@gmail.com" >
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
    </a> <Br />
-   <a href="https://www.facebook.com/marcospatrick.saraiva.5/">
+   
+   <a href="https://www.facebook.com/patrick.devv">
        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank">
    </a>
   </div>
