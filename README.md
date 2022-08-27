@@ -13,17 +13,17 @@
 ## Tecnologias/Frameworks: ♨ 
 <div style="display: inline_block">
     <img align="center" alt="Patrick-Java" height="30" width="40" src="https://www.svgrepo.com/show/184143/java.svg">
+    <img align="center" alt="Patrick-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Patrick-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+    <img align="center" alt="Patrick-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Patrick-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="Patrick-Spring" height="30" width="40" src="https://www.svgrepo.com/show/376350/spring.svg">
-    <img align="center" alt="Patrick-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="Patrick-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     <img align="center" alt="Patrick-Angular" height="30" width="40" src="https://www.svgrepo.com/show/353396/angular-icon.svg">
     <img align="center" alt="Patrick-NodeJS" height="30" width="40" src="https://www.svgrepo.com/show/303266/nodejs-icon-logo.svg">
     <img align="center" alt="Patrick-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Patrick-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Patrick-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Patrick-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
     <img align="center" alt="Patrick-Vscode" height="30" width="40" src="https://www.svgrepo.com/show/374171/vscode.svg">
+    <img align="center" alt="Patrick-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     <img align="center" alt="Patrick-Eclipse" height="30" width="40" src="https://www.svgrepo.com/show/353685/eclipse-icon.svg">
 </div>
 
