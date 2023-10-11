@@ -31,7 +31,7 @@
   
  ## Redes sociais:
  <div>   
-  <img align="left" alt="patrick-illustration" height="150" style="border-radius:50px;" src="https://i.imgur.com/ITtUg2m.jpeg">
+  <img align="left" alt="patrick-illustration" height="150" style="border-radius:50px;" src="https://ibb.co/W65kL4S" />
 
   <div style="margin-left: 30px;">
    <a href="https://www.linkedin.com/in/marcos-patrick-58598b14a/" target="_blank">
