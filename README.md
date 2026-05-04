@@ -9,7 +9,7 @@
 
 </div>
 
-<h3>🤖 Linguagens e Tecnologias</h3>
+<h3>🤖 Linguagens e Tecnologias ♨ </h3>
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img width="30px" title="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
@@ -29,7 +29,7 @@
 </div>
 
 
-## Tecnologias/Frameworks: ♨ 
+## Tecnologias/Frameworks: 
 <li style="display: inline_block">
     <img align="center" alt="Patrick-Java" height="30" width="40" src="https://www.svgrepo.com/show/184143/java.svg">
     <img align="center" alt="Patrick-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
