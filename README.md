@@ -29,9 +29,9 @@
 </div>
 
 
-/*
+<!--
   ## Tecnologias/Frameworks:
-  */
+  -->
 <li style="display: inline_block; list-style: none;">
     <img align="left" alt="Patrick-Java" height="30" width="40" src="https://www.svgrepo.com/show/184143/java.svg">
     <img align="left" alt="Patrick-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
