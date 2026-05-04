@@ -3,10 +3,27 @@
  
 
 <div style="display: inline-block">
- 
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=marcospatrickexe&show_icons=true&theme=gotham)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=marcospatrickexe&theme=gotham&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
- 
+   ![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=marcospatrickexe&show_icons=true&theme=gotham)
+   [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=marcospatrickexe&theme=gotham&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+<h3>🤖 Linguagens e Tecnologias</h3>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img width="30px" title="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img width="30px" title="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img width="30px" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img width="30px" title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img width="30px" title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img width="30px" title="Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+  <img width="30px" title="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+  <img width="30px" title="Tailwind" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+  <img width="30px" title="SASS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
+  <img width="30px" title="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+  <img width="30px" title="Laravel" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
+  <img width="30px" title="JQuery" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" />
+  <img width="30px" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img width="30px" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 </div>
 
 
