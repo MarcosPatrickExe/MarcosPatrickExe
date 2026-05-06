@@ -1,6 +1,5 @@
 # Olá! Seja bem vindo(a) ao meu perfil!
 ### Me chamo Patrick e gosto muito de desenvolver aplicações voltadas para a Web :desktop_computer:
- 
 
 <div style="display: inline-block">
 
