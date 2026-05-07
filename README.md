@@ -1,7 +1,6 @@
 # Olá! Seja bem vindo(a) ao meu perfil!
 ### Me chamo Patrick e gosto muito de desenvolver aplicações voltadas para a Web :desktop_computer:
 
-
 <div style="display: inline-block">
 
  ![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=marcospatrickexe&show_icons=true&theme=gotham)
