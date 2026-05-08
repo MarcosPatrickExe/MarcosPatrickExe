@@ -8,6 +8,7 @@
 
 </div>
 
+
 <h3>🤖 Linguagens e Tecnologias ♨ </h3>
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
