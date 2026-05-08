@@ -3,7 +3,6 @@
 
 <div style="display: inline-block">
 
-
  ![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=marcospatrickexe&show_icons=true&theme=gotham)
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=marcospatrickexe&theme=gotham&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
