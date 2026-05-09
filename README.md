@@ -27,7 +27,7 @@
   <img width="30px" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 </div>
 
-
+<div src="https://img.shields.io/badge/1001tracklists-40AEF0?style=for-the-badge&logo=1001tracklists&logoColor=white"></div>
 <!--
   ## Tecnologias/Frameworks:
   -->
