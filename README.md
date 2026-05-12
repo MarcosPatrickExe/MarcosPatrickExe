@@ -1,6 +1,7 @@
 # Olá! Seja bem vindo(a) ao meu perfil!
 ### Me chamo Patrick e gosto muito de desenvolver aplicações voltadas para a Web :desktop_computer:
 
+<!--
 <div style="display: inline-block">
     <img height="180" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" />
 </div>
@@ -9,7 +10,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcosPatrickExe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosPatrickExe&layout=compact&langs_count=8&theme=tokyonight"/> 
 </div>
-
+-->
     
 # 🚀 Minhas Skills
 <img src="https://camo.githubusercontent.com/b308ff9a6de632b94c933c0f27975188080f8cf88a115ae10338540f8d9ab8ab/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970655363726970742d3030374143433f7374796c653d666f722d7468652d6261646765266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465"/>
